@@ -1,0 +1,90 @@
+
+gunslinger_pack.png
+size: 256, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+gunslinger
+  rotate: false
+  xy: 2, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+gunslinger
+  rotate: false
+  xy: 2, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 8
+gunslinger
+  rotate: false
+  xy: 36, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 7
+gunslinger
+  rotate: false
+  xy: 36, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+gunslinger
+  rotate: false
+  xy: 70, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 4
+gunslinger
+  rotate: false
+  xy: 104, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 9
+gunslinger
+  rotate: false
+  xy: 138, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+gunslinger
+  rotate: false
+  xy: 172, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 6
+gunslinger
+  rotate: false
+  xy: 206, 58
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 5
+gunslingerarm
+  rotate: false
+  xy: 36, 24
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 2, 24
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+revolver
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
